@@ -88,7 +88,7 @@ L. W. Park, S. Lee, and H. Chang, “A sustainable home energy prosumerchain met
 Chenghua Zhang, "Peer-to-Peer Energy Trading in Electrical Distribution Networks," Cardiff University,PHD Thesis, 2017.
 
 ##### Internet of Things in industries: A survey
- L. D. Xu, W. He, and S. Li, “Internet of Things in industries: A survey,” IEEE Trans. Ind. Inform., vol. 10, no. 4, pp. 2233–2243, Nov. 2014. 
+ Distribution Network 
  
  ##### Blockchain for secure and efficient data sharing in vehicular edge computing and networks
  
